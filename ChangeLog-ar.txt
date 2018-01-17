@@ -1,4 +1,4 @@
-﻿{"version_code":451199,"content":"
+﻿{"version_code":451200,"content":"
 <p>تحديث 2.50</p>
 
 
@@ -8,5 +8,5 @@
 <li>وتشجيعي على الاستمرار في تطوير النسخة</li>
 
 
-","url":"http://www.gbmods.co/?p=19"
+","url":"http://www.gbmods.com"
 }
