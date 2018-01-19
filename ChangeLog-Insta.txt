@@ -1,5 +1,5 @@
-﻿{"version_code":5,"content":"
-<p>تحديث 1.40</p>
+﻿{"version_code":4,"content":"
+<p>تحديث 1.30</p>
 
 <li>إضافة سيرفر ثيمات يمكنك الان اختيار الثيم الخاص بك</li>
 <li>إضافة خيارات جديدة لتغيير ثيم شاشة البروفايل</li>
@@ -14,5 +14,5 @@
 <li> Fixed White line on Home Screen</li>
 <li> Many More Fixes</li>
 
-","url":"http://www.gbmods.co/?p=1684"
+","url":"http://www.saif-mods.com/2018/01/instagram.html"
 }
