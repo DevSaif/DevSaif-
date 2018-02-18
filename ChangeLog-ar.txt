@@ -1,5 +1,5 @@
-﻿{"version_code":451198,"content":"
-<p>تحديث 2.40</p>
+﻿{"version_code":451201,"content":"
+<p>تحديث 2.50</p>
 
 <li>دعم للموقع</li>
 <li>اذا ظهرت لك هذه الرسالة فأنت من مستخدمين واتساب المميزين</li>
@@ -14,5 +14,5 @@
 <li> Do not spare us minutes of your time with your support. Keep going. </li>
 <li> Click Update and enter </li>
 
-","url":"http://www.saif-mods.com/p/adsbygoogle-window_15.html"
+","url":"http://www.saif-mods.com/p/blog-page.html"
 }
