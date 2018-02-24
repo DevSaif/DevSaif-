@@ -3,9 +3,6 @@
 
 <li>التحديث لنسخة الماركت 2.18.9</li>
 <li>(حصريا) إضافة الرد التلقائي (يمكنك إرسال رد تلقائي للرسائل الواردة عندما تكون انت مشغولا)</li>
-<li>تم إصلاح رسالة الفيسبوك المزعجة وتم حذفها </li>
-<li>إضافة ميزة "النص التلقائي" يمكنك من خلاله إرسال عدة رسائل بسرعة فائقة</li>
-<li>إضافة ميزة تبديل السمايلات</li>
 <li>تفعيل ميزة البحث عن عضو في معلومات المجموعة</li>
 <li>إضافة إمكانية تعديل معلومات المجموعة من قبل المشرفين فقط</li>
 <li>إضافة 7 اشكال جديدة لفقاعة المحادثة الخيار رقم 1.2.3</li>
@@ -25,9 +22,6 @@
 <li>إصلاحات اخرى</li>
 
 <li> New Base Updated to 2.18.9</li>
-<li> The annoying Facebook message has been fixed and deleted</li>
-<li> Add the AutoText feature where you can send multiple messages very quickly</li>
-<li> Add the Switcher Switch feature</li>
 <li> (Super Exclusive) AutoReply (Auto Message when you are Busy)</li>
 <li> Enabled Search Participants</li>
 <li> Enabled Manage Group Admins</li>
