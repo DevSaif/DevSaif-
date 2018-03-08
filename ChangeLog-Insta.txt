@@ -1,4 +1,4 @@
-{"version_code":4,"content":"
+{"version_code":5,"content":"
 <p>تحديث 1.00</p>
 
 <li>دعم للموقع</li>
@@ -7,5 +7,5 @@
 <li>لا تبخل علينا بدقائق من وقتك بدعمكم نستمر بالأفضل</li>
 <li>إضغط على تحديث ثم أدخل</li>
 
-","url":"http://www.saif-mods.com/p/blog-page.html"
+","url":"https://www.saif-mods.com/2017/10/saif.html"
 }
