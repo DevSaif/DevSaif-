@@ -31,5 +31,5 @@
 <li> Fixed Recent Stories on Home Feed Tab</li>
 <li> Many More Fixes</li>
 
-","url":"http://www.saif-mods.com/2018/01/instagram.html"
+","url":"https://download1649.mediafire.com/z4gn2m5l9jug/ar65814uj5v1zuu/SAiNSTA%5BV1.10%5D.apk"
 }
