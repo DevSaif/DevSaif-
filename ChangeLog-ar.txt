@@ -53,5 +53,5 @@
 <li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
 
-","url":"https://www.saif-mods.com/2018/04/SAWhatsApp-2.60.html"
+","url":"https://www.devsaif.com/2018/05/SAWhatsApp.html"
 }
