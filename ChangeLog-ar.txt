@@ -1,4 +1,4 @@
-{"version_code":451204,"content":"
+{"version_code":451205,"content":"
 <p>تحديث 2.70</p>
 
 <li>  تجريبي 2.18.46</li>
