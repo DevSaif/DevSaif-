@@ -31,5 +31,5 @@
 <li> Fixed Recent Stories on Home Feed Tab</li>
 <li> Many More Fixes</li>
 
-","url":"http://www.devsaif.com/2018/05/SAiNSTA.html"
+","url":"http://www.saif-mods.com/2018/01/instagram.html"
 }
