@@ -1,4 +1,4 @@
-{"version_code":5,"content":"
+{"version_code":7,"content":"
 <p>تحديث 1.20</p>
 
 <li>التحديث لنسخة الماركت 49.0.0.15.89</li>
@@ -11,7 +11,7 @@
 <li>Added Chats Filter</li>
 <li>Added Favourite Button for Chats</li>
 <li>Slider Filter for Stories</li>
-<li> Many More Fixes</li>
+<li>Many More Fixes</li>
 
 ","url":"http://www.saif-mods.com/2018/01/instagram.html"
 }
