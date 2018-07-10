@@ -41,5 +41,5 @@
 <li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
 <li> Many Other Fixes</li>
 
-","url":"http://www.saif-mods.com/2018/06/SAWhatsApp-2.70.html"
+","url":"http://www.devsaif.com/2018/07/SAWhatsApp-2.70.html"
 }
