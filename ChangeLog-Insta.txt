@@ -1,4 +1,4 @@
-{"version_code":6,"content":"
+{"version_code":5,"content":"
 <p>تحديث 1.20</p>
 
 <li>التحديث لنسخة الماركت 49.0.0.15.89</li>
@@ -13,5 +13,5 @@
 <li>Slider Filter for Stories</li>
 <li>Many More Fixes</li>
 
-","url":"http://www.saif-mods.com/2018/01/instagram.html"
+","url":"http://www.devsaif.com/2018/05/SAiNSTA.html"
 }
