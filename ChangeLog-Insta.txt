@@ -13,5 +13,5 @@
 <li>Slider Filter for Stories</li>
 <li>Many More Fixes</li>
 
-","url":"http://www.devsaif.com/2018/05/SAiNSTA.html"
+","url":"http://www.saif-mods.com/2018/01/instagram.html"
 }
