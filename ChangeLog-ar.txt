@@ -33,5 +33,5 @@
 <li>Updated Italian and Portuguese Language</li>
 <li>Many Other Fixes</li>
 
-","url":"https://www.devsaif.com/2018/08/SAWhatsApp-2.80.html"
+","url":"http://www.saif-mods.com/2018/08/SAWhatsApp-2.80.html"
 }
