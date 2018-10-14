@@ -1,11 +1,17 @@
-{"version_code":7,"content":"
-<pدعم الموقع</p>
+{"version_code":6,"content":"
+<p>تحديث 1.20</p>
 
-<li>رسالة دعم للموقع</li>
-<li>عزيزي مستخدم sainsta</li>
-<li>قم بالضغط على تحديث تم تصفح الموقع لبضع دقائق</li>
-<li>ثم قم بالنقر على اي اعلان من الاعلانات</li>
-<li>ادعمنا لنستمر بتطوير النسخة وشكرا</li>
+<li>التحديث لنسخة الماركت 49.0.0.15.89</li>
+<li>يمكنك تمييز اي محادثة بنجمة</li>
+<li>يمكنك فرز المحادثات حسب توقيت الرسائل او حسب المحادثات المميزة بنجمة</li>
+<li>إصلاح عدم فتح المحادثات وان البرنامج يحتاج تحديث</li>
+<li>إصلاحات اخرى</li>
 
-","url":"https://www.devsaif.com/2018/08/SAWhatsApp-2.80.html"
+<li>New Base Updated to 49.0.0.15.89</li>
+<li>Added Chats Filter</li>
+<li>Added Favourite Button for Chats</li>
+<li>Slider Filter for Stories</li>
+<li>Many More Fixes</li>
+
+","url":"https://www.devsaif.com/2018/05/SAiNSTA.html"
 }
