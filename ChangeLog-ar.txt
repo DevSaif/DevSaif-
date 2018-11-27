@@ -1,4 +1,4 @@
-{"version_code":451213,"content":"
+{"version_code":452565,"content":"
 <p>تحديث 3.00</p>
 
 <li>امكانية تخصيص قائمة الخيارات</li>
